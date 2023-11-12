@@ -1,0 +1,15 @@
+{
+  "conventionalCommits.scopes": [
+    "Entities",
+    "Configurations",
+    "Migrations",
+    "Interfaces",
+    "Repositories",
+    "UnitOfWork",
+    "Extensions",
+    "Dtos",
+    "Profiles",
+    "Controllers",
+    "Queries"
+  ]
+}
